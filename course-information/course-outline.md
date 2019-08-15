@@ -48,12 +48,11 @@ All classes will include significant time for students to work on their projects
 
 Specific requirements and evaluation criteria for each component will be presented when assigned.
 
-- 20% Physical Game Project (Group)
+- 15% Physical Game Project (Group)
 - 20% Card / Board Game Project (Group)
 - 20% Digital Game Project (Individual)
 - 20% Exam (Individual)
-- 10% Exercises (Individual)
-- 10% Participation (Individual)
+- 25% Participation / Exercises (Individual/Group)
 
 ## Policies
 
