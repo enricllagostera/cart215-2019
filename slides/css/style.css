@@ -1,0 +1,92 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+.hi {
+  background-color: yellow;
+}
+
+.codeHi {
+  color: magenta;
+}
+
+.red {
+  color: red;
+}
+
+img {
+  max-width: 100%;
+  max-height: 75%;
+  border: 8px solid #222;
+}
+
+.no_border img {
+  border: 0px solid white !important;
+}
+
+
+.cols {
+  display: flex;
+}
+
+.fifty {
+  flex: 50%;
+}
+
+/* REMARK-SPECIFIC CSS */
+
+.remark-code, .remark-inline-code {
+  font-family: monospace;
+}
+
+.remark-container {
+  background-color: #333;
+  box-shadow: none;
+}
+
+div.remark-slide-content {
+  background-color: #eee;
+}
+
+div.remark-slide-content.title {
+}
+
+.remark-slide-content h1,h2,h3 {
+  font-weight: 900;
+}
+
+.remark-slide-content h1 {
+  font-size: 4em;
+  color: #000;
+  /* padding-left: 0.25em;
+  border-left: 8px #222 solid; */
+}
+
+.remark-slide-content h2 {
+  font-size: 2em;
+  /* padding-left: .25em;
+  border-left: 8px solid #222; */
+}
+
+.remark-slide-content h3 {
+  font-size: 1.25em;
+  /* padding-left: .25em;
+  border-left: 2px dashed black; */
+}
+
+.remark-slide-content li {
+  padding: .15em;
+}
+
+.remark-slide-content a, a:visited, a:hover {
+  color: black;
+}
+
+.remark-slide-content a:hover {
+  text-decoration: none;
+}
+
+.remark-slide-content {
+  font-size: 1.75em;
+}
