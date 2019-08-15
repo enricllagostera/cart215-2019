@@ -1,20 +1,29 @@
 # CART 215 - Introduction to Game Design - Fall 2019
 
+Week of 3 September – Week of 2 December, 2019.
+
+Tuesdays, 08:30 – 12:30 in EV 5.615.
+
 ## Instructor
 
-Enric Granzotto Llagostera
-PhD Student
+**Enric Granzotto Llagostera**
 
-[enric.llagostera@concordia.ca](mailto:enric.llagostera@concordia.ca) (Send emails with a subject line of "[CART 215] Your subject here").
-<http://enric.llagostera.com.br>
+He / him. PhD Student at TAG (Technoculture, Art and Games) research centre.
 
-Office: TAG Lab (EV 11.435).
-Office hours: Fridays, 13h30 - 15h00.
+Email: [enric.llagostera@concordia.ca](mailto:enric.llagostera@concordia.ca). Please, send emails with a subject line of "[CART 215] Your subject here". Note that I will not answer emails between Friday 5pm to Monday 9pm.
+
+Instructor's website: <http://enric.llagostera.com.br>. Office location: TAG Lab (EV 11.435). Appointments: please contact me in class or by email to arrange a meeting.
 
 ## Important pages
 
-Course outline
+### [Course Outline](course-information/course-outline.md)
 
-Course schedule
+Info on the course in terms of objectives, evaluation, and general characteristics.
 
-Course resources
+### [Course Schedule](course-information/course-schedule.md)
+
+Our home base through the course with links to slides, resources and exercises for each week.
+
+### Resources and references
+
+A set of links to helpful resources and references if you want to extend yourself.
