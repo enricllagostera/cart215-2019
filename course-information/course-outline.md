@@ -26,15 +26,27 @@ This course is a general introduction to game design theory, analysis and practi
 - Experiment with and navigate different approaches to game and play design.
 - Learn to formulate and communicate game design ideas and projects.
 
-## Policies
+## Key activities
 
-- According to departmental policy: 3 absences = failure.
-- Late assignments will receive an automatic grade deduction of 10% per day, unless prior arrangements have been discussed.
-- Unjustified absence on a required day for an assignment will result in a 10% deduction in its grade.
+### Lecture
 
-## Summary of Evaluations
+Each class will include time spent with the instructor running through the week's topics, showing examples, and engaging in discussion over readings.
 
-Specific requirements and evaluation criteria for each component will be presented in class with at least two weeks in advance.
+### Weekly exercises
+
+Some weeks will include an evaluated exercise in which students will practice game design skills, engage with research, and/or reflect on their practice.
+
+### Projects
+
+There will be three graded projects during the course. Each will be used as an opportunity for students to practice and develop their game design skills in a variety of contexts and prompts, with room for their own creative ideas.
+
+### Studio
+
+All classes will include significant time for students to work on their projects and exercises with the instructor present to support both their technical and conceptual approach.
+
+## Evaluation
+
+Specific requirements and evaluation criteria for each component will be presented when assigned.
 
 - 20% Physical Game Project (Group)
 - 20% Card / Board Game Project (Group)
@@ -42,6 +54,12 @@ Specific requirements and evaluation criteria for each component will be present
 - 20% Exam (Individual)
 - 10% Exercises (Individual)
 - 10% Participation (Individual)
+
+## Policies
+
+- According to departmental policy: 3 absences = failure.
+- Late assignments will receive an automatic grade deduction of 10% per day, unless prior arrangements have been discussed.
+- Unjustified absence on a required day for an assignment will result in a 10% deduction in its grade.
 
 ## Coursepack & Readings
 
