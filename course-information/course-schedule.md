@@ -6,7 +6,7 @@ This is the home base through the course with links to slides, resources and exe
 
 ## Week 1 (Sep 03) - Introduction & Experiencing Game Design
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-01-introduction)
 
 ## Week 2 (Sep 10) - Play is The Thing
 
@@ -14,7 +14,10 @@ This is the home base through the course with links to slides, resources and exe
 
 ### Readings
 
-Sicart; DeKoven;
+Sicart, M. (2014). Play is. In Play matters (pp. 1–18). Cambridge, Massachusetts: The MIT Press.
+
+DeKoven, B. (2013). Searching for the Well-Played Game & Guidelines. In The well-played game:
+a player’s philosophy (pp. 1–9). Cambridge, Massachusetts: The MIT Press.
 
 ## Week 3 (Sep 17) - Basic Game Design Tools
 

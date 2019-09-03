@@ -74,6 +74,10 @@ If you'd like to contact me outside of class, please email me at [enric.llagoste
 
 In case you prefer an in-person meeting, you can talk to me in class / email me to arrange it.
 
+## [Moodle](https://moodle.concordia.ca/moodle/course/view.php?id=119891)
+
+Moodle will be used for handing-in and uploading assignments and projects. You can also access it via your MyConcordia profile.
+
 ## Department Syllabus
 
 The Department of Design + Computation Arts has established a [standardized syllabus](dcart-syllabus-2019.pdf), addressing codes of conduct and academic regulations applicable to all courses. You are expected to become familiar with this document, which supersedes all other regulations identified in this course outline.

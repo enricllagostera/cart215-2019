@@ -24,6 +24,10 @@ Info on the course in terms of objectives, evaluation, and general characteristi
 
 Our home base through the course with links to slides, resources and exercises for each week.
 
+### [Course Moodle](https://moodle.concordia.ca/moodle/course/view.php?id=119891)
+
+Moodle will be used for handing-in and uploading assignments and projects. You can also access it via your MyConcordia profile.
+
 ### Resources and references
 
 A set of links to helpful resources and references if you want to extend yourself.
