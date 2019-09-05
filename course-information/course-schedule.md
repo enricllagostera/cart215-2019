@@ -8,6 +8,10 @@ This is the home base through the course with links to slides, resources and exe
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-01-introduction)
 
+### [Card game rules for Skulls & Roses + Fight the Landlord](../slides/week-01-introduction/card_game_base_rules.pdf)
+
+### [Exercise 01 - Reflection on changing a card game](https://moodle.concordia.ca/moodle/mod/assign/view.php?id=2079823)
+
 ## Week 2 (Sep 10) - Play is The Thing
 
 ### Slides (TBA)
