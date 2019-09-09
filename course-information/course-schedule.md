@@ -14,7 +14,9 @@ This is the home base through the course with links to slides, resources and exe
 
 ## Week 2 (Sep 10) - Play is The Thing
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-02-play)
+
+### [Who took the apple?](http://www.copenhagengamecollective.org/projects/who-took-the-apple/), by Copenhagen Game Collective.
 
 ### Readings
 
