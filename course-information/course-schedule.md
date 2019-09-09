@@ -6,7 +6,7 @@ This is the home base through the course with links to slides, resources and exe
 
 ## Week 1 (Sep 03) - Introduction & Experiencing Game Design
 
-### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-01-introduction)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-01-introduction/)
 
 ### [Card game rules for Skulls & Roses + Fight the Landlord](../slides/week-01-introduction/card_game_base_rules.pdf)
 
@@ -14,7 +14,7 @@ This is the home base through the course with links to slides, resources and exe
 
 ## Week 2 (Sep 10) - Play is The Thing
 
-### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-02-play)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-02-play/)
 
 ### [Who took the apple?](http://www.copenhagengamecollective.org/projects/who-took-the-apple/), by Copenhagen Game Collective.
 
