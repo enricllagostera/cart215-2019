@@ -29,9 +29,11 @@ a player’s philosophy (pp. 1–9). Cambridge, Massachusetts: The MIT Press.
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 3
 
-Hunicke et al;  Macklin & Sharp (Basic Game Design Tools);
+Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. In Proceedings of the AAAI Workshop on Challenges in Game AI (Vol. 4, p. 5). Retrieved from http://www.aaai.org/Library/Workshops/2004/ws04-04-001.php
+
+Macklin, C., & Sharp, J. (2016a). Basic Game Design Tools. In Games, design and play: a detailed approach to iterative game design (First edition, pp. 15–45). Boston, MA ; San Francisco, CA: Addison-Wesley.
 
 ### Projects
 
