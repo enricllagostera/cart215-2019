@@ -15,6 +15,7 @@ class: middle
 3. Game design elements recap
 4. Lecture: Play & Games
 5. Let's play: Who took the apple?
+
 ---
 
 ### Game rec 1: .hi[A Short Hike], by adam robinson-yu
@@ -379,8 +380,6 @@ class: middle
 
 --
 - In what contexts these objects circulate?
-
-
 
 ---
 

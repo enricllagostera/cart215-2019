@@ -4,26 +4,27 @@ This is the home base through the course with links to slides, resources and exe
 
 ---
 
-## Week 1 (Sep 03) - Introduction & Experiencing Game Design
+## ~~Week 1 (Sep 03)~~ - Introduction & Experiencing Game Design
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-01-introduction/)
 
 ### [Card game rules for Skulls & Roses + Fight the Landlord](../slides/week-01-introduction/card_game_base_rules.pdf)
 
-### [Exercise 01 - Reflection on changing a card game](https://moodle.concordia.ca/moodle/mod/assign/view.php?id=2079823)
+### [Exercise 1 - Reflection on changing a card game](https://moodle.concordia.ca/moodle/mod/assign/view.php?id=2079823)
 
-## Week 2 (Sep 10) - Play is The Thing
+## ~~Week 2 (Sep 10)~~ - Play is The Thing
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-02-play/)
 
 ### [Who took the apple?](http://www.copenhagengamecollective.org/projects/who-took-the-apple/), by Copenhagen Game Collective.
 
-### Readings
+### [Exercise 2 - Noticing play opportunities](https://moodle.concordia.ca/moodle/mod/assign/view.php?id=2089631)
+
+### Readings for week 2
 
 Sicart, M. (2014). Play is. In Play matters (pp. 1–18). Cambridge, Massachusetts: The MIT Press.
 
-DeKoven, B. (2013). Searching for the Well-Played Game & Guidelines. In The well-played game:
-a player’s philosophy (pp. 1–9). Cambridge, Massachusetts: The MIT Press.
+DeKoven, B. (2013). Searching for the Well-Played Game & Guidelines. In The well-played game: a player’s philosophy (pp. 1–9). Cambridge, Massachusetts: The MIT Press.
 
 ## Week 3 (Sep 17) - Basic Game Design Tools
 
@@ -43,17 +44,31 @@ Start of Physical Game Project (TBA).
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 4
 
-Brathwaite & Schreiber; Guardiola; Norman;
+Note: In the Brathwaite & Schreiber readings, you can skip / skim the exercise sections and focus more on the content parts. The exercises and challenges there are great, but they will not be the focus of class discussions.
+
+Brathwaite, B. & Schreiber, I. (2009). Elements of chance. In Challenges for Game Designers (p. 69-82). 317 pages. Boston, MA: Course Technology/Cengage Learning.
+
+Brathwaite, B. & Schreiber, I. (2009). Elements of “strategic” skill. In  Challenges for Game Designers (p. 83-98). 317 pages. Boston, MA: Course Technology/Cengage Learning.
+
+Brathwaite, B. & Schreiber, I. (2009). Elements of “Twitch” skill. In Challenges for Game Designers (p. 99-108). 317 pages. Boston, MA: Course Technology/Cengage Learning.
+
+Norman, D. A. (1990). The Psychology of Everyday Actions. In The design of everyday things (1st Doubleday/Currency ed, pp. 34-53). New York: Doubleday.
+
+#### Optional reading
+
+Guardiola, E. (2016). The Gameplay Loop: A Player Activity Model for Game Design and Analysis. In Proceedings of the 13th International Conference on Advances in Computer Entertainment Technology (pp. 23:1–23:7). New York, NY, USA: ACM. https://doi.org/10.1145/3001773.3001791
 
 ## Week 5 (Oct 01) - Categories of Play
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 5
 
-Caillois;
+Caillois, R. (2001a). The definition of play. In Man, play, and games (pp. 3–10). Urbana and Chicago: University of illinois Press.
+
+Caillois, R. (2001b). The classification of games. In Man, play, and games (pp. 11–36). Urbana and Chicago: University of illinois Press.
 
 ### Projects
 
@@ -63,9 +78,9 @@ Start of Card / Board Game Project (TBA).
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 6
 
-Tekinbaş & Zimmerman;
+Tekinbaş, K. S., & Zimmerman, E. (2004). Games as Emergent Systems. In Rules of play: game design fundamentals (pp. 151–171). Cambridge, Mass: MIT Press.
 
 ### Projects
 
@@ -75,25 +90,25 @@ Physical Game Project (TBA) is due.
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 7
 
-Fullerton (Communicating your designs);
+Fullerton, T. (2014a). Communicating your designs. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 437–453). Natick: CRC Press.
 
 ## Week 8 (Oct 22) - Prototyping
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 8
 
-Macklin & Sharp (Prototyping);
+Macklin, C., & Sharp, J. (2016b). Prototyping Your Game. In Games, design and play: a detailed approach to iterative game design (First edition, pp. 181–200). Boston, MA ; San Francisco, CA: Addison-Wesley.
 
 ## Week 9 (Oct 29) - Narrative & Storytelling
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 9
 
-Anthropy & Clark;
+Anthropy, A., & Clark, N. (2014). Storytelling. In A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design (1 edition, pp. 155–189). Upper Saddle River, NJ: Addison-Wesley Professional.
 
 ### Projects
 
@@ -103,9 +118,9 @@ Start of Digital Game Project (TBA).
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 10
 
-Totten;
+Totten, C. W. (2014). Basic Gamespaces. In An architectural approach to level design (pp. 103–160). Boca Raton, FL: CRC Press.
 
 ### Projects
 
@@ -115,21 +130,23 @@ Card / Board Game Project is due.
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 11
 
-Swink; Sirlin;
+Swink, S. (2009b). Super Mario Brothers. In Game feel: a game designer’s guide to virtual sensation (pp. 201–228). Amsterdam ; Boston: Morgan Kaufmann Publishers/Elsevier.
+
+Sirlin, D. (2009). Balancing Multiplayer Competitive Games. Retrieved from <http://www.sirlin.net/s/GDC-2009-sirlin-handout6.pdf>
 
 ## Week 12 (Nov 19) - Playtesting
 
 ### Slides (TBA)
 
-### Readings
+### Readings for week 12
 
-Fullerton (Playtesting);
+Fullerton, T. (2014b). Playtesting. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 271–304). Natick: CRC Press.
 
 ## Week 13 (Nov 26) - Exam
 
-## Week 14 (Dec 03) - No class
+## Week 14 (Dec 03) - No class / debrief
 
 ### Projects
 
