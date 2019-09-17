@@ -28,7 +28,7 @@ DeKoven, B. (2013). Searching for the Well-Played Game & Guidelines. In The well
 
 ## Week 3 (Sep 17) - Basic Game Design Tools
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-03-game-design-tools/)
 
 ### Readings for week 3
 
