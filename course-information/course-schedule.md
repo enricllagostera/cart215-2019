@@ -26,7 +26,7 @@ Sicart, M. (2014). Play is. In Play matters (pp. 1–18). Cambridge, Massachuset
 
 DeKoven, B. (2013). Searching for the Well-Played Game & Guidelines. In The well-played game: a player’s philosophy (pp. 1–9). Cambridge, Massachusetts: The MIT Press.
 
-## Week 3 (Sep 17) - Basic Game Design Tools
+## ~~Week 3 (Sep 17)~~ - Basic Game Design Tools
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-03-game-design-tools/)
 
@@ -40,9 +40,9 @@ Macklin, C., & Sharp, J. (2016a). Basic Game Design Tools. In Games, design and 
 
 Start of Physical Game Project (TBA).
 
-## Week 4 (Sep 24) - Chance and Skill / The Design in Game Design
+## _Week 4 (Sep 24) - Chance and Skill / The Design in Game Design_
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-04-design-chance/)
 
 ### Readings for week 4
 
