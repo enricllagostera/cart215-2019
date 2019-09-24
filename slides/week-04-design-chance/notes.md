@@ -240,17 +240,13 @@ Think in **spatial terms** more broadly.
 
 --
 
-Consider how **scarcity** can be mapped to the physical / cognitive aspects of a game.
+Consider how **scarcity** can be mapped to the motor / cognitive aspects of a game.
 
 ---
 
 ### The implied non-disabled player
 
-The chapter does not discuss how the concept of "twitch" skills does not address issues of accessibility and challenge and disabled players. 
-
---
-
-In different ways, dominant game design convention and practice serve as _disabling infrastructures_ or _barriers for access_. This is an important issue when considering our role as designers.
+The chapter does not discuss how the concept of "twitch" skills does not address issues of **accessibility and challenge**. In different ways, dominant game design convention and practice serve as _barriers for access_ which block players with specific health conditions or impairments from enjoying games. How to design inclusively is a key issue for game designers.
 
 --
 
