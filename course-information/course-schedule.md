@@ -40,7 +40,7 @@ Macklin, C., & Sharp, J. (2016a). Basic Game Design Tools. In Games, design and 
 
 Start of Physical Game Project (TBA).
 
-## _Week 4 (Sep 24) - Chance and Skill / The Design in Game Design_
+## ~~Week 4 (Sep 24)~~ - Chance and Skill / The Design in Game Design
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-04-design-chance/)
 
@@ -60,9 +60,9 @@ Norman, D. A. (1990). The Psychology of Everyday Actions. In The design of every
 
 Guardiola, E. (2016). The Gameplay Loop: A Player Activity Model for Game Design and Analysis. In Proceedings of the 13th International Conference on Advances in Computer Entertainment Technology (pp. 23:1–23:7). New York, NY, USA: ACM. https://doi.org/10.1145/3001773.3001791
 
-## Week 5 (Oct 01) - Categories of Play
+## _Week 5 (Oct 01) - Definition & Categories of Play_
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-05-def-cat-play/)
 
 ### Readings for week 5
 
