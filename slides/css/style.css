@@ -94,3 +94,13 @@ div.remark-slide-content.title {
 .remark-slide-scaler {
   box-shadow: none;
 }
+
+.invert.remark-slide-content {
+  background-color: #000;
+}
+
+.invert.remark-slide-content * {
+  color: #fff;
+  text-shadow: 3px 3px 5px #000;
+}
+ 

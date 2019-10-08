@@ -60,7 +60,7 @@ Norman, D. A. (1990). The Psychology of Everyday Actions. In The design of every
 
 Guardiola, E. (2016). The Gameplay Loop: A Player Activity Model for Game Design and Analysis. In Proceedings of the 13th International Conference on Advances in Computer Entertainment Technology (pp. 23:1–23:7). New York, NY, USA: ACM. https://doi.org/10.1145/3001773.3001791
 
-## _Week 5 (Oct 01) - Definition & Categories of Play_
+## ~~Week 5 (Oct 01)~~ - Definition & Categories of Play
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-05-def-cat-play/)
 
@@ -74,9 +74,9 @@ Caillois, R. (2001b). The classification of games. In Man, play, and games (pp. 
 
 Start of Card / Board Game Project (TBA).
 
-## Week 6 (Oct 08) - Systems, Simulation and Complexity
+## _Week 6 (Oct 08) - Systems, Simulation and Complexity_
 
-### Slides (TBA)
+### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-06-systems-complexity/)
 
 ### Readings for week 6
 
