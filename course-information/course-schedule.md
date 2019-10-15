@@ -74,7 +74,7 @@ Caillois, R. (2001b). The classification of games. In Man, play, and games (pp. 
 
 Start of Card / Board Game Project (TBA).
 
-## _Week 6 (Oct 08) - Systems, Simulation and Complexity_
+## ~~Week 6 (Oct 08)~~ - Systems, Simulation and Complexity
 
 ### [Slides](https://enricllagostera.github.io/cart215-2019/slides/week-06-systems-complexity/)
 
@@ -86,9 +86,9 @@ Tekinbaş, K. S., & Zimmerman, E. (2004). Games as Emergent Systems. In Rules of
 
 Physical Game Project (TBA) is due.
 
-## Week 7 (Oct 15) - Game Design Processes & Documentation
+## _Week 7 (Oct 15) - Game Design Processes & Documentation_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS0R7gadznZrpgMzrtAyl76P0bq9e7J6NY1hfXgN5VFCCBLU70usmCUnWLBYS2TrVXfG_TMc_1gWo5b/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 7
 
