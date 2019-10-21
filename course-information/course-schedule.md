@@ -86,7 +86,7 @@ Tekinbaş, K. S., & Zimmerman, E. (2004). Games as Emergent Systems. In Rules of
 
 Physical Game Project (TBA) is due.
 
-## _Week 7 (Oct 15) - Game Design Processes & Documentation_
+## ~~Week 7 (Oct 15)~~ - Game Design Processes & Documentation_
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS0R7gadznZrpgMzrtAyl76P0bq9e7J6NY1hfXgN5VFCCBLU70usmCUnWLBYS2TrVXfG_TMc_1gWo5b/pub?start=false&loop=false&delayms=60000)
 
@@ -94,9 +94,9 @@ Physical Game Project (TBA) is due.
 
 Fullerton, T. (2014a). Communicating your designs. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 437–453). Natick: CRC Press.
 
-## Week 8 (Oct 22) - Prototyping
+## _Week 8 (Oct 22) - Prototyping_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTTVnU2DOXIkxh0LOkJZCAx3ZB6Gj0JPvuw7QF3ayLixwT-7k3n5skjzakPPQezgTusTr69w7cTx4Iq/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 8
 
