@@ -86,7 +86,7 @@ Tekinbaş, K. S., & Zimmerman, E. (2004). Games as Emergent Systems. In Rules of
 
 Physical Game Project (TBA) is due.
 
-## ~~Week 7 (Oct 15)~~ - Game Design Processes & Documentation_
+## ~~Week 7 (Oct 15)~~ - Game Design Processes & Documentation
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS0R7gadznZrpgMzrtAyl76P0bq9e7J6NY1hfXgN5VFCCBLU70usmCUnWLBYS2TrVXfG_TMc_1gWo5b/pub?start=false&loop=false&delayms=60000)
 
@@ -94,7 +94,7 @@ Physical Game Project (TBA) is due.
 
 Fullerton, T. (2014a). Communicating your designs. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 437–453). Natick: CRC Press.
 
-## _Week 8 (Oct 22) - Prototyping_
+## ~~Week 8 (Oct 22)~~ - Prototyping
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTTVnU2DOXIkxh0LOkJZCAx3ZB6Gj0JPvuw7QF3ayLixwT-7k3n5skjzakPPQezgTusTr69w7cTx4Iq/pub?start=false&loop=false&delayms=60000)
 
@@ -102,9 +102,9 @@ Fullerton, T. (2014a). Communicating your designs. In Game Design Workshop: a Pl
 
 Macklin, C., & Sharp, J. (2016b). Prototyping Your Game. In Games, design and play: a detailed approach to iterative game design (First edition, pp. 181–200). Boston, MA ; San Francisco, CA: Addison-Wesley.
 
-## Week 9 (Oct 29) - Narrative & Storytelling
+## _Week 9 (Oct 29) - Narrative & Storytelling_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQjTjka2fJJ8bbvKYn8Ni9sJKxfZAFttAo02pTXbeagJwdCVZuKobb2qgp3y5zgQpkr3qbm3AgCCgJq/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 9
 
