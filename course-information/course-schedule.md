@@ -102,7 +102,7 @@ Fullerton, T. (2014a). Communicating your designs. In Game Design Workshop: a Pl
 
 Macklin, C., & Sharp, J. (2016b). Prototyping Your Game. In Games, design and play: a detailed approach to iterative game design (First edition, pp. 181–200). Boston, MA ; San Francisco, CA: Addison-Wesley.
 
-## _Week 9 (Oct 29) - Narrative & Storytelling_
+## ~~Week 9 (Oct 29)~~ - Narrative & Storytelling
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQjTjka2fJJ8bbvKYn8Ni9sJKxfZAFttAo02pTXbeagJwdCVZuKobb2qgp3y5zgQpkr3qbm3AgCCgJq/pub?start=false&loop=false&delayms=60000)
 
@@ -112,37 +112,37 @@ Anthropy, A., & Clark, N. (2014). Storytelling. In A Game Design Vocabulary: Exp
 
 ### Projects
 
-Start of Digital Game Project (TBA).
+Start of Digital Game Project.
 
-## Week 10 (Nov 05) - Level Design
+## _Week 10 (Nov 05) - Playtesting_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ23b0UE4qoa7ZXet0i_tDFm-FsfMl_uVh8f7c7dY6gWE7RMlXmaxpaqhVtGzqdqY569wSQQcTA0lMp/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 10
 
-Totten, C. W. (2014). Basic Gamespaces. In An architectural approach to level design (pp. 103–160). Boca Raton, FL: CRC Press.
+Fullerton, T. (2014b). Playtesting. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 271–304). Natick: CRC Press.
 
 ### Projects
 
-Card / Board Game Project is due.
+Card / Board Game Project is due this week.
 
-## Week 11 (Nov 12) - Game Feel & Balance
+## Week 11 (Nov 12) - Level Design
 
 ### Slides (TBA)
 
 ### Readings for week 11
 
-Swink, S. (2009b). Super Mario Brothers. In Game feel: a game designer’s guide to virtual sensation (pp. 201–228). Amsterdam ; Boston: Morgan Kaufmann Publishers/Elsevier.
+Totten, C. W. (2014). Basic Gamespaces. In An architectural approach to level design (pp. 103–160). Boca Raton, FL: CRC Press.
 
-Sirlin, D. (2009). Balancing Multiplayer Competitive Games. Retrieved from <http://www.sirlin.net/s/GDC-2009-sirlin-handout6.pdf>
-
-## Week 12 (Nov 19) - Playtesting
+## Week 12 (Nov 19) - Game Feel & Balance
 
 ### Slides (TBA)
 
 ### Readings for week 12
 
-Fullerton, T. (2014b). Playtesting. In Game Design Workshop: a Playcentric Approach to Creating Innovative Games, Third Edition. (pp. 271–304). Natick: CRC Press.
+Swink, S. (2009b). Super Mario Brothers. In Game feel: a game designer’s guide to virtual sensation (pp. 201–228). Amsterdam ; Boston: Morgan Kaufmann Publishers/Elsevier.
+
+Sirlin, D. (2009). Balancing Multiplayer Competitive Games. Retrieved from <http://www.sirlin.net/s/GDC-2009-sirlin-handout6.pdf>
 
 ## Week 13 (Nov 26) - Exam
 
