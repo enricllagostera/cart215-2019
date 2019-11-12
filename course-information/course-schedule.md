@@ -114,7 +114,7 @@ Anthropy, A., & Clark, N. (2014). Storytelling. In A Game Design Vocabulary: Exp
 
 Start of Digital Game Project.
 
-## _Week 10 (Nov 05) - Playtesting_
+## ~~Week 10 (Nov 05) - Playtesting~~
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ23b0UE4qoa7ZXet0i_tDFm-FsfMl_uVh8f7c7dY6gWE7RMlXmaxpaqhVtGzqdqY569wSQQcTA0lMp/pub?start=false&loop=false&delayms=60000)
 
@@ -126,9 +126,9 @@ Fullerton, T. (2014b). Playtesting. In Game Design Workshop: a Playcentric Appro
 
 Card / Board Game Project is due this week.
 
-## Week 11 (Nov 12) - Level Design
+## _Week 11 (Nov 12) - Level Design_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTp3ddF2sCdDICkUrVJk3X9r8NvfbYZocRC1PM_UD3HvekECOg-cNC-Bqf801xvTMQy7c3mEWc2Pxvc/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 11
 
@@ -146,7 +146,7 @@ Sirlin, D. (2009). Balancing Multiplayer Competitive Games. Retrieved from <http
 
 ## Week 13 (Nov 26) - Exam
 
-## Week 14 (Dec 03) - No class / debrief
+## Week 14 (Dec 03) - No class / Debrief
 
 ### Projects
 
