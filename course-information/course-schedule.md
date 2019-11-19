@@ -50,7 +50,7 @@ Note: In the Brathwaite & Schreiber readings, you can skip / skim the exercise s
 
 Brathwaite, B. & Schreiber, I. (2009). Elements of chance. In Challenges for Game Designers (p. 69-82). 317 pages. Boston, MA: Course Technology/Cengage Learning.
 
-Brathwaite, B. & Schreiber, I. (2009). Elements of “strategic” skill. In  Challenges for Game Designers (p. 83-98). 317 pages. Boston, MA: Course Technology/Cengage Learning.
+Brathwaite, B. & Schreiber, I. (2009). Elements of “strategic” skill. In Challenges for Game Designers (p. 83-98). 317 pages. Boston, MA: Course Technology/Cengage Learning.
 
 Brathwaite, B. & Schreiber, I. (2009). Elements of “Twitch” skill. In Challenges for Game Designers (p. 99-108). 317 pages. Boston, MA: Course Technology/Cengage Learning.
 
@@ -126,7 +126,7 @@ Fullerton, T. (2014b). Playtesting. In Game Design Workshop: a Playcentric Appro
 
 Card / Board Game Project is due this week.
 
-## _Week 11 (Nov 12) - Level Design_
+## \_~~Week 11 (Nov 12) - Level Design~~
 
 ### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTp3ddF2sCdDICkUrVJk3X9r8NvfbYZocRC1PM_UD3HvekECOg-cNC-Bqf801xvTMQy7c3mEWc2Pxvc/pub?start=false&loop=false&delayms=60000)
 
@@ -134,9 +134,9 @@ Card / Board Game Project is due this week.
 
 Totten, C. W. (2014). Basic Gamespaces. In An architectural approach to level design (pp. 103–160). Boca Raton, FL: CRC Press.
 
-## Week 12 (Nov 19) - Game Feel & Balance
+## _Week 12 (Nov 19) - Game Feel & Balance_
 
-### Slides (TBA)
+### [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTF-TesigLDwn_QNjwfOp6xBzg3X43PkbvC8Zk0Gua6_SGrlKsclLPs4BlEn6tK-8NNP7MvGR1L57p9/pub?start=false&loop=false&delayms=60000)
 
 ### Readings for week 12
 
